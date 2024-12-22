@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/Users/spocam/Documents/GitHub/Custom-Memory-Alloactors/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++   -g -std=gnu++23 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/memoryAllocator.dir/src/FreeListAllocator.cpp.o -c /Users/spocam/Documents/GitHub/Custom-Memory-Alloactors/src/FreeListAllocator.cpp",
+  "file": "/Users/spocam/Documents/GitHub/Custom-Memory-Alloactors/src/FreeListAllocator.cpp",
+  "output": "CMakeFiles/memoryAllocator.dir/src/FreeListAllocator.cpp.o"
+},
+{
+  "directory": "/Users/spocam/Documents/GitHub/Custom-Memory-Alloactors/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++   -g -std=gnu++23 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/memoryAllocator.dir/src/LinearAllocator.cpp.o -c /Users/spocam/Documents/GitHub/Custom-Memory-Alloactors/src/LinearAllocator.cpp",
+  "file": "/Users/spocam/Documents/GitHub/Custom-Memory-Alloactors/src/LinearAllocator.cpp",
+  "output": "CMakeFiles/memoryAllocator.dir/src/LinearAllocator.cpp.o"
+},
+{
+  "directory": "/Users/spocam/Documents/GitHub/Custom-Memory-Alloactors/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++   -g -std=gnu++23 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/memoryAllocator.dir/src/PoolAllocator.cpp.o -c /Users/spocam/Documents/GitHub/Custom-Memory-Alloactors/src/PoolAllocator.cpp",
+  "file": "/Users/spocam/Documents/GitHub/Custom-Memory-Alloactors/src/PoolAllocator.cpp",
+  "output": "CMakeFiles/memoryAllocator.dir/src/PoolAllocator.cpp.o"
+},
+{
+  "directory": "/Users/spocam/Documents/GitHub/Custom-Memory-Alloactors/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++   -g -std=gnu++23 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/memoryAllocator.dir/src/RBFreeListAllocator.cpp.o -c /Users/spocam/Documents/GitHub/Custom-Memory-Alloactors/src/RBFreeListAllocator.cpp",
+  "file": "/Users/spocam/Documents/GitHub/Custom-Memory-Alloactors/src/RBFreeListAllocator.cpp",
+  "output": "CMakeFiles/memoryAllocator.dir/src/RBFreeListAllocator.cpp.o"
+},
+{
+  "directory": "/Users/spocam/Documents/GitHub/Custom-Memory-Alloactors/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++   -g -std=gnu++23 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/memoryAllocator.dir/src/StackAllocator.cpp.o -c /Users/spocam/Documents/GitHub/Custom-Memory-Alloactors/src/StackAllocator.cpp",
+  "file": "/Users/spocam/Documents/GitHub/Custom-Memory-Alloactors/src/StackAllocator.cpp",
+  "output": "CMakeFiles/memoryAllocator.dir/src/StackAllocator.cpp.o"
+},
+{
+  "directory": "/Users/spocam/Documents/GitHub/Custom-Memory-Alloactors/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++   -g -std=gnu++23 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/memoryAllocator.dir/src/main.cpp.o -c /Users/spocam/Documents/GitHub/Custom-Memory-Alloactors/src/main.cpp",
+  "file": "/Users/spocam/Documents/GitHub/Custom-Memory-Alloactors/src/main.cpp",
+  "output": "CMakeFiles/memoryAllocator.dir/src/main.cpp.o"
+}
+]

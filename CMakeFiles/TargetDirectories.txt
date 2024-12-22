@@ -1,0 +1,3 @@
+/Users/spocam/Documents/GitHub/Custom-Memory-Alloactors/CMakeFiles/memoryAllocator.dir
+/Users/spocam/Documents/GitHub/Custom-Memory-Alloactors/CMakeFiles/edit_cache.dir
+/Users/spocam/Documents/GitHub/Custom-Memory-Alloactors/CMakeFiles/rebuild_cache.dir
